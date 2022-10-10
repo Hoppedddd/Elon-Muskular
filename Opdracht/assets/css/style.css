@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+#sidebar {
+   border: 3px solid white;
+   height: 720px;
+   width: 120px;
+   float: left;
+   
+
+}
+
+#main {
+   margin-left: auto;
+   margin-right: auto;
+   width: 55em;
+   text-align: center;
+   
+   
+}
+
+body {
+   color: white;
+   background-image: linear-gradient(black,red);
+   background-repeat: no-repeat;
+   height: 1080px;
+   width: 720px;
+   vertical-align: middle;
+   display: inline-block;
+   
+  
+}
+
+#image1 {
+   
+   display: block;
+   margin: 0 auto;
+}
+
+#image2 {
+   
+   display: block;
+   margin: 0 auto;
+}
+
+#image3 {
+   
+   display: block;
+   margin: 0 auto;
+}
